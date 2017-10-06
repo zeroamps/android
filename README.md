@@ -24,7 +24,7 @@ If you want to install an official Samsung firmware back to your mobile follow t
 
 ### Troubleshooting
 
-If loading takes too long you might be in so called LOOP, but don't panic. Just enter recovery mode. You can get to recovery mode the way you get to dowload mode, but this time don't hold Volume Down, but Volume Up. From the menu choose wipe data/factory reset and confirm it. Then choose reboot system now and the issue should be resolved.
+If loading takes too long you might be in so called LOOP, but don't panic. Just enter recovery mode. You can get to recovery mode the same way you get to dowload mode, but this time don't hold Volume Down, but Volume Up. From the menu choose wipe data/factory reset and confirm it. Then choose reboot system now and the issue should be resolved.
 
 ![Recovery mode](https://github.com/chovanj/Android/blob/master/android-system-recovery-3e.jpg)
 
