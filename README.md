@@ -14,3 +14,5 @@ If you want to install an official Samsung firmware back to your mobile follow t
     * Press Volume Up to enter the main screen of download mode.
 
 4. Unzip and run Odin flash tool. Then connect with a USB cable your mobile with your PC. If you do that for the first time you might have to wait a while because Windows has to install drivers for you mobile.
+
+   ![image](https://github.com/chovanj/Android/blob/master/odin-device-added.jpg)
