@@ -21,3 +21,10 @@ If you want to install an official Samsung firmware back to your mobile follow t
 5. Unzip firmware and then click on AP button in Odin. Choose md5 file you have unzipped and wait until it's loaded. Then click on Start button. When it's installed your mobile phone will be restarted and you should see PASS! in Odin.
    
    ![Odin dowloading PASS!](https://github.com/chovanj/Android/blob/master/odin-firmware-pass.png)
+
+### Troubleshooting
+
+If loading takes too long you might be in so called LOOP, but don't panic. Just enter recovery mode. You can get to recovery mode the way you get to dowload mode, but this time don't hold Volume Down, but Volume Up.
+
+![Recovery mode](https://github.com/chovanj/Android/blob/master/android-system-recovery-3e.jpg)
+
