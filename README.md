@@ -6,4 +6,4 @@ If you want to install an official Samsung firmware back to your mobile follow t
 
 1. Download the latest version of [Odin flash tool](http://odin3download.com/). See [Wikipedia](https://en.wikipedia.org/wiki/Odin_(firmware_flashing_software)) if you want to know more about this tool.
 
-2. Download an official version of Samsung firmware for your mobile. I used [Updato](http://updato.com/) webpage for downloading firmware. On the webpage you can search any firmware by device. For my Samsung Galaxy S3 i9300 I downloaded it from [CA3FFC731E7C11E6949E0CC47A44B7B2](http://updato.com/firmware-archive-select-model?record=CA3FFC731E7C11E6949E0CC47A44B7B2). I recommend backing it up because these sites are changing very quickly.
+2. Download an official version of Samsung firmware for your mobile. I used [Updato](http://updato.com/) webpage for downloading firmware. On the webpage you can search any firmware by device. For my Samsung Galaxy S3 i9300 I downloaded it from [ca3ffc731e7c11e6949e0cc47a44b7b2](http://updato.com/firmware-archive-select-model?record=CA3FFC731E7C11E6949E0CC47A44B7B2). I recommend backing it up because these sites are changing very quickly.
