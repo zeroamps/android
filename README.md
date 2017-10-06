@@ -8,7 +8,8 @@ If you want to install an official Samsung firmware back to your mobile follow t
 
 2. Download an official version of Samsung firmware for your mobile. I used [Updato](http://updato.com/) webpage for downloading firmware. On the webpage you can search any firmware by device. For my Samsung Galaxy S3 i9300 I downloaded it from [ca3ffc731e7c11e6949e0cc47a44b7b2](http://updato.com/firmware-archive-select-model?record=CA3FFC731E7C11E6949E0CC47A44B7B2). I recommend backing it up because these sites are changing very quickly.
 
-3. Enter download mode by following these steps.
+3. Enter download mode by following these steps below or see this [video on YouTube](https://www.youtube.com/watch?v=WmdyFevTO3M).
 - Power off your Samsung phone, press and hold Volume Down, Home and Power keys at the same time.
 - Release all three buttons when Samsung phone reboot and you see a warning sign.
 - Press Volume Up to enter the main screen of download mode.
+
