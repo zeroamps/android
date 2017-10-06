@@ -16,7 +16,7 @@ If you want to install an official Samsung firmware back to your mobile follow t
 
 4. Unzip and run Odin flash tool. Then connect with a USB cable your mobile with your PC. If you do that for the first time you might have to wait a while because Windows has to install drivers for you mobile. After connecting you should see Added!! in log.
 
-   ![Odin device added](https://github.com/chovanj/Android/blob/master/odin-device-added.jpg)
+   ![Odin device added](https://github.com/chovanj/Android/blob/master/odin-device-added.png)
 
 5. Unzip firmware and then click on AP button in Odin. Choose md5 file you have unzipped and wait until it's loaded. Then click on Start button. When it's installed your mobile phone will be restarted and you should see PASS! in Odin.
    
