@@ -12,7 +12,8 @@ If you want to install an official Samsung firmware back to your mobile follow t
     * Power off your Samsung phone, press and hold Volume Down, Home and Power keys at the same time.
     * Release all three buttons when Samsung phone reboot and you see a warning sign.
     * Press Volume Up to enter the main screen of download mode.
+    ![Samsung download mode](https://github.com/chovanj/Android/blob/master/download-mode-samsung.jpg)
 
 4. Unzip and run Odin flash tool. Then connect with a USB cable your mobile with your PC. If you do that for the first time you might have to wait a while because Windows has to install drivers for you mobile.
 
-   ![image](https://github.com/chovanj/Android/blob/master/odin-device-added.jpg)
+   ![Odin device added](https://github.com/chovanj/Android/blob/master/odin-device-added.jpg)
