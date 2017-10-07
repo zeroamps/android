@@ -13,5 +13,5 @@ I decided to upgrade Android in my Samsung Galaxy S3 i9300 from version [4.3](ht
 9. Click on Start button and wait until you see PASS!
 
 ### Troubleshooting
-[How to resolve Android boot loop](https://github.com/chovanj/Android/wiki/How-to-resolve-Android-boot-loop)
+[How to resolve Android boot loop issue](https://github.com/chovanj/Android/wiki/How-to-resolve-Android-boot-loop)
 
