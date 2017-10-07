@@ -8,9 +8,10 @@ I decided to upgrade Android in my Samsung Galaxy S3 i9300 from version [4.3](ht
 4. Connect mobile and PC with a USB cable.
 5. Unzip the downloaded firmware file on your PC.
 6. Run Odin and you should see Added!! in Odin log.
-7. Click on AP button in Odin and choose md5 file you have unzipped and wait until it's loaded. 
-8. Click on Start button and whait until you see see PASS! in Odin.
-9. Done!
+7. Click on AP button in Odin and choose md5 file you have unzipped. 
+8. Wait until md5 is loaded.
+9. Click on Start button and wait.
+10. PASS!
 
 ### Troubleshooting
 
