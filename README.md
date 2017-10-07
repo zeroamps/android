@@ -5,15 +5,9 @@ I decided to upgrade Android in my Samsung Galaxy S3 i9300 from version [4.3](ht
 If you want to install an official Samsung firmware back to your mobile follow this guide.
 
 1. Download [Odin flash tool](https://github.com/chovanj/Android/wiki/Odin-flash-tool).
-
 2. Download an official version of Samsung firmware for your mobile. I used [Updato](http://updato.com/) webpage for downloading firmware. On the webpage you can search any firmware by device. For my Samsung Galaxy S3 i9300 I downloaded it from [ca3ffc731e7c11e6949e0cc47a44b7b2](http://updato.com/firmware-archive-select-model?record=CA3FFC731E7C11E6949E0CC47A44B7B2). I recommend backing it up because these sites are changing very quickly.
-
 3. Enter ![download mode](https://github.com/chovanj/Android/wiki/Samsung-Galaxy-S3-i9300-Download-Mode).
-
-4. Unzip and run Odin flash tool. Then connect with a USB cable your mobile with your PC. If you do that for the first time you might have to wait a while because Windows has to install drivers for you mobile. After connecting you should see Added!! in log.
-
-   ![Odin device added](https://github.com/chovanj/Android/blob/master/odin-device-added.png)
-
+4. Connect mobile and PC with a USB cable.
 5. Unzip firmware and then click on AP button in Odin. Choose md5 file you have unzipped and wait until it's loaded. Then click on Start button. When it's installed your mobile phone will be restarted and you should see PASS! in Odin.
    
    ![Odin dowloading PASS!](https://github.com/chovanj/Android/blob/master/odin-firmware-pass.png)
