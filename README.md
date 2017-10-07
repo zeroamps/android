@@ -12,7 +12,7 @@ I decided to upgrade Android in my Samsung Galaxy S3 i9300 from version [4.3](ht
 5. Connect mobile and PC with a USB cable.
 6. Run Odin and you should see Added!! in Odin log.
 7. Click on AP button in Odin and choose md5 file you have unzipped. 
-8. Wait until md5 is loaded.
+8. Wait until the md5 file is loaded.
 9. Click on Start button and wait until you see PASS!
 
 ### Troubleshooting
