@@ -2,8 +2,6 @@
 I decided to upgrade Android in my Samsung Galaxy S3 i9300 from version [4.3](https://www.android.com/versions/jelly-bean-4-3/) to a higher version which is not officially supported by Samsung. See also [Wiki](https://github.com/chovanj/Android/wiki) on this page.
 
 ## How to install an official Samsung firmware back to your mobile
-If you want to install an official Samsung firmware back to your mobile follow this guide.
-
 1. Download [Odin flash tool](https://github.com/chovanj/Android/wiki/Odin-flash-tool).
 2. [Download an official version of Samsung firmware](https://github.com/chovanj/Android/wiki/Official-version-of-Samsung-firmware-for-your-mobile).
 3. Enter ![download mode](https://github.com/chovanj/Android/wiki/Samsung-Galaxy-S3-i9300-Download-Mode).
